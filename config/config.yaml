@@ -1,0 +1,16 @@
+# 修改这些参数可以调整分析行为
+
+# 爬虫设置
+crawler:
+  max_comments: 1000    # 爬取的最大评论数
+  delay: 1.5            # 每次请求的延迟（秒）
+
+# 分析设置  
+analyzer:
+  top_n_comments: 10    # 显示的热门评论数量
+  top_n_users: 5        # 显示的活跃用户数量
+
+# 输出设置
+output:
+  format: "excel"       # 输出格式
+  save_charts: true     # 是否保存图表

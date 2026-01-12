@@ -1,0 +1,30 @@
+# Python编译文件 Python compiled file
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Python虚拟环境 Python virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# IDE配置文件 IDE configuration file
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件 System files
+.DS_Store
+Thumbs.db
+
+# 项目输出文件 Project output files
+output/
+*.log
+
+# 数据文件（大文件不上传）Data file (large files will not be uploaded)
+*.xlsx
+*.csv
+*.png
+*.jpg

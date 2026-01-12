@@ -1,0 +1,20 @@
+# 基础数据分析库 Basic data analysis database
+pandas==1.5.3
+numpy==1.24.3
+
+# 画图库 Matplotlib
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# 中文处理 Chinese processing
+jieba==0.42.1
+wordcloud==1.9.2
+
+# 网络请求 Network requests
+requests==2.31.0
+
+# 配置文件 Configuration file
+pyyaml==6.0
+
+# 进度条显示 Progress bar display
+tqdm==4.65.0
